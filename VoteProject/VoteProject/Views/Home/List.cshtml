@@ -1,0 +1,82 @@
+﻿@model List<VoteProject.Controllers.VwAllData>
+
+<div class="container-scroller">
+    <!-- partial:../../partials/_horizontal-navbar.html -->
+    <!-- partial -->
+    <div class="container-fluid page-body-wrapper">
+        <div class="main-panel">
+            <div class="content-wrapper">
+                <div class="page-header">
+                    <h3 class="page-title"> Data table </h3>
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="#">Tables</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Data table</li>
+                        </ol>
+                    </nav>
+                </div>
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Data table</h4>
+                        <div class="row">
+                            <div class="col-12">
+                                <div id="order-listing_wrapper" class="dataTables_wrapper dt-bootstrap4 no-footer">
+                                        <div class="row">
+                                        <div class="col-sm-12">
+                                            <table id="order-listing" class="table dataTable no-footer" aria-describedby="order-listing_info">
+                                                <thead>
+                                                    <tr>
+                                                        <td>Name</td>
+                                                        <td>Vote Name</td>
+                                                        <td> Option </td>
+                                                        <td>Action </td>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    @foreach (var c in Model)
+                                                    {
+                                                        <tr>
+                                                            <td>@c.name</td>
+                                                            <td>@c.voteName</td>
+                                                            <td>@c.option</td>
+                                                            <td>
+                                                                <a asp-controller="Home" asp-action="vote" asp-route-id="@c.idOfDataBase">   <input class="btn btn-gradient-info btn-fw" value="Edit" type="submit">  </a>
+                                                                <a asp-controller="Home" asp-action="Delete" asp-route-id="@c.idOfDataBase"> <input class="btn btn-gradient-danger btn-fw" value="Delete" type="submit">  </a>
+
+                                                            </td>
+                                                        </tr>
+                                                    }
+
+
+                                                </tbody>
+                                            </table>
+
+
+                                        </div>
+                                        <a asp-controller="Home" asp-action="Index">  <input value="new" class="btn btn-gradient-primary btn-fw" /> </a>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- content-wrapper ends -->
+            <!-- partial:../../partials/_footer.html -->
+            <!-- partial -->
+        </div>
+        <!-- main-panel ends -->
+    </div>
+    <!-- page-body-wrapper ends -->
+</div>
+@section css{
+
+    <link rel="stylesheet" href="~/Admin/assets/vendors/datatables.net-bs4/dataTables.bootstrap4.css">
+}
+@section scripts{
+    <script src="~/Admin/assets/vendors/datatables.net/jquery.dataTables.js"></script>
+    <script src="~/Admin/assets/vendors/datatables.net-bs4/dataTables.bootstrap4.js"></script>
+    <script src="~/Admin/assets/js/data-table.js"></script>
+
+}

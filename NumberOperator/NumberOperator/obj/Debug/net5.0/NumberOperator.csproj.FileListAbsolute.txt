@@ -1,0 +1,16 @@
+C:\Users\Ali Shahin\source\repos\NumberOperator\NumberOperator\bin\Debug\net5.0\NumberOperator.exe
+C:\Users\Ali Shahin\source\repos\NumberOperator\NumberOperator\bin\Debug\net5.0\NumberOperator.deps.json
+C:\Users\Ali Shahin\source\repos\NumberOperator\NumberOperator\bin\Debug\net5.0\NumberOperator.runtimeconfig.json
+C:\Users\Ali Shahin\source\repos\NumberOperator\NumberOperator\bin\Debug\net5.0\NumberOperator.runtimeconfig.dev.json
+C:\Users\Ali Shahin\source\repos\NumberOperator\NumberOperator\bin\Debug\net5.0\NumberOperator.dll
+C:\Users\Ali Shahin\source\repos\NumberOperator\NumberOperator\bin\Debug\net5.0\ref\NumberOperator.dll
+C:\Users\Ali Shahin\source\repos\NumberOperator\NumberOperator\bin\Debug\net5.0\NumberOperator.pdb
+C:\Users\Ali Shahin\source\repos\NumberOperator\NumberOperator\obj\Debug\net5.0\NumberOperator.csprojAssemblyReference.cache
+C:\Users\Ali Shahin\source\repos\NumberOperator\NumberOperator\obj\Debug\net5.0\NumberOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Shahin\source\repos\NumberOperator\NumberOperator\obj\Debug\net5.0\NumberOperator.AssemblyInfoInputs.cache
+C:\Users\Ali Shahin\source\repos\NumberOperator\NumberOperator\obj\Debug\net5.0\NumberOperator.AssemblyInfo.cs
+C:\Users\Ali Shahin\source\repos\NumberOperator\NumberOperator\obj\Debug\net5.0\NumberOperator.csproj.CoreCompileInputs.cache
+C:\Users\Ali Shahin\source\repos\NumberOperator\NumberOperator\obj\Debug\net5.0\NumberOperator.dll
+C:\Users\Ali Shahin\source\repos\NumberOperator\NumberOperator\obj\Debug\net5.0\ref\NumberOperator.dll
+C:\Users\Ali Shahin\source\repos\NumberOperator\NumberOperator\obj\Debug\net5.0\NumberOperator.pdb
+C:\Users\Ali Shahin\source\repos\NumberOperator\NumberOperator\obj\Debug\net5.0\NumberOperator.genruntimeconfig.cache

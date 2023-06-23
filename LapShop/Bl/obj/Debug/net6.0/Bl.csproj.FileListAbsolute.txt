@@ -1,0 +1,55 @@
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\Bl.csproj.AssemblyReference.cache
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\Bl.AssemblyInfoInputs.cache
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\Bl.AssemblyInfo.cs
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\Bl.csproj.CoreCompileInputs.cache
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\bin\Debug\net6.0\Domains.staticwebassets.runtime.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\bin\Debug\net6.0\Bl.staticwebassets.runtime.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\bin\Debug\net6.0\Bl.deps.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\bin\Debug\net6.0\Bl.runtimeconfig.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\bin\Debug\net6.0\Bl.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\bin\Debug\net6.0\Bl.pdb
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\bin\Debug\net6.0\Domains.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\bin\Debug\net6.0\Domains.pdb
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\staticwebassets.build.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\staticwebassets.development.json
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\scopedcss\bundle\Bl.styles.css
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\scopedcss\projectbundle\Bl.bundle.scp.css
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\Bl.csproj.CopyComplete
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\Bl.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\refint\Bl.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\Bl.pdb
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\Bl.genruntimeconfig.cache
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\obj\Debug\net6.0\ref\Bl.dll
+F:\Current Courses\Asp.net mvc core v1\V2\Samples\LapShop\Bl\bin\Debug\net6.0\jsconfig1.json
+D:\programs\LapShop\Bl\obj\Debug\net6.0\Bl.dll
+D:\programs\LapShop\Bl\obj\Debug\net6.0\refint\Bl.dll
+D:\programs\LapShop\Bl\obj\Debug\net6.0\Bl.pdb
+D:\programs\LapShop\Bl\bin\Debug\net6.0\jsconfig1.json
+D:\programs\LapShop\Bl\bin\Debug\net6.0\Domains.staticwebassets.runtime.json
+D:\programs\LapShop\Bl\bin\Debug\net6.0\Bl.staticwebassets.runtime.json
+D:\programs\LapShop\Bl\bin\Debug\net6.0\Bl.deps.json
+D:\programs\LapShop\Bl\bin\Debug\net6.0\Bl.runtimeconfig.json
+D:\programs\LapShop\Bl\bin\Debug\net6.0\Bl.dll
+D:\programs\LapShop\Bl\bin\Debug\net6.0\Bl.pdb
+D:\programs\LapShop\Bl\bin\Debug\net6.0\Domains.dll
+D:\programs\LapShop\Bl\bin\Debug\net6.0\Domains.pdb
+D:\programs\LapShop\Bl\obj\Debug\net6.0\Bl.csproj.AssemblyReference.cache
+D:\programs\LapShop\Bl\obj\Debug\net6.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\LapShop\Bl\obj\Debug\net6.0\Bl.AssemblyInfoInputs.cache
+D:\programs\LapShop\Bl\obj\Debug\net6.0\Bl.AssemblyInfo.cs
+D:\programs\LapShop\Bl\obj\Debug\net6.0\Bl.csproj.CoreCompileInputs.cache
+D:\programs\LapShop\Bl\obj\Debug\net6.0\staticwebassets\msbuild.Bl.Microsoft.AspNetCore.StaticWebAssets.props
+D:\programs\LapShop\Bl\obj\Debug\net6.0\staticwebassets\msbuild.build.Bl.props
+D:\programs\LapShop\Bl\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Bl.props
+D:\programs\LapShop\Bl\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Bl.props
+D:\programs\LapShop\Bl\obj\Debug\net6.0\staticwebassets.pack.json
+D:\programs\LapShop\Bl\obj\Debug\net6.0\staticwebassets.build.json
+D:\programs\LapShop\Bl\obj\Debug\net6.0\staticwebassets.development.json
+D:\programs\LapShop\Bl\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+D:\programs\LapShop\Bl\obj\Debug\net6.0\scopedcss\bundle\Bl.styles.css
+D:\programs\LapShop\Bl\obj\Debug\net6.0\scopedcss\projectbundle\Bl.bundle.scp.css
+D:\programs\LapShop\Bl\obj\Debug\net6.0\Bl.csproj.CopyComplete
+D:\programs\LapShop\Bl\obj\Debug\net6.0\Bl.genruntimeconfig.cache
+D:\programs\LapShop\Bl\obj\Debug\net6.0\ref\Bl.dll

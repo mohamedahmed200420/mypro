@@ -1,0 +1,16 @@
+E:\Current Courses\C#\Samples\NumberOperator\StudentGrade\StudentGrade\bin\Debug\net5.0\StudentGrade.exe
+E:\Current Courses\C#\Samples\NumberOperator\StudentGrade\StudentGrade\bin\Debug\net5.0\StudentGrade.deps.json
+E:\Current Courses\C#\Samples\NumberOperator\StudentGrade\StudentGrade\bin\Debug\net5.0\StudentGrade.runtimeconfig.json
+E:\Current Courses\C#\Samples\NumberOperator\StudentGrade\StudentGrade\bin\Debug\net5.0\StudentGrade.runtimeconfig.dev.json
+E:\Current Courses\C#\Samples\NumberOperator\StudentGrade\StudentGrade\bin\Debug\net5.0\StudentGrade.dll
+E:\Current Courses\C#\Samples\NumberOperator\StudentGrade\StudentGrade\bin\Debug\net5.0\ref\StudentGrade.dll
+E:\Current Courses\C#\Samples\NumberOperator\StudentGrade\StudentGrade\bin\Debug\net5.0\StudentGrade.pdb
+E:\Current Courses\C#\Samples\NumberOperator\StudentGrade\StudentGrade\obj\Debug\net5.0\StudentGrade.csprojAssemblyReference.cache
+E:\Current Courses\C#\Samples\NumberOperator\StudentGrade\StudentGrade\obj\Debug\net5.0\StudentGrade.GeneratedMSBuildEditorConfig.editorconfig
+E:\Current Courses\C#\Samples\NumberOperator\StudentGrade\StudentGrade\obj\Debug\net5.0\StudentGrade.AssemblyInfoInputs.cache
+E:\Current Courses\C#\Samples\NumberOperator\StudentGrade\StudentGrade\obj\Debug\net5.0\StudentGrade.AssemblyInfo.cs
+E:\Current Courses\C#\Samples\NumberOperator\StudentGrade\StudentGrade\obj\Debug\net5.0\StudentGrade.csproj.CoreCompileInputs.cache
+E:\Current Courses\C#\Samples\NumberOperator\StudentGrade\StudentGrade\obj\Debug\net5.0\StudentGrade.dll
+E:\Current Courses\C#\Samples\NumberOperator\StudentGrade\StudentGrade\obj\Debug\net5.0\ref\StudentGrade.dll
+E:\Current Courses\C#\Samples\NumberOperator\StudentGrade\StudentGrade\obj\Debug\net5.0\StudentGrade.pdb
+E:\Current Courses\C#\Samples\NumberOperator\StudentGrade\StudentGrade\obj\Debug\net5.0\StudentGrade.genruntimeconfig.cache

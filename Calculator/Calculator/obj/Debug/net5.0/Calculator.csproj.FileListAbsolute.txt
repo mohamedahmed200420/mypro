@@ -1,0 +1,15 @@
+E:\Current Courses\C#\Samples\Calculator\Calculator\bin\Debug\net5.0\Calculator.exe
+E:\Current Courses\C#\Samples\Calculator\Calculator\bin\Debug\net5.0\Calculator.deps.json
+E:\Current Courses\C#\Samples\Calculator\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+E:\Current Courses\C#\Samples\Calculator\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+E:\Current Courses\C#\Samples\Calculator\Calculator\bin\Debug\net5.0\Calculator.dll
+E:\Current Courses\C#\Samples\Calculator\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+E:\Current Courses\C#\Samples\Calculator\Calculator\bin\Debug\net5.0\Calculator.pdb
+E:\Current Courses\C#\Samples\Calculator\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Current Courses\C#\Samples\Calculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+E:\Current Courses\C#\Samples\Calculator\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+E:\Current Courses\C#\Samples\Calculator\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+E:\Current Courses\C#\Samples\Calculator\Calculator\obj\Debug\net5.0\Calculator.dll
+E:\Current Courses\C#\Samples\Calculator\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+E:\Current Courses\C#\Samples\Calculator\Calculator\obj\Debug\net5.0\Calculator.pdb
+E:\Current Courses\C#\Samples\Calculator\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache

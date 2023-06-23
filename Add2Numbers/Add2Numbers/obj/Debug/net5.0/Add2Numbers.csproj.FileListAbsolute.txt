@@ -1,0 +1,16 @@
+E:\Current Courses\C#\Samples\Add2Numbers\Add2Numbers\bin\Debug\net5.0\Add2Numbers.exe
+E:\Current Courses\C#\Samples\Add2Numbers\Add2Numbers\bin\Debug\net5.0\Add2Numbers.deps.json
+E:\Current Courses\C#\Samples\Add2Numbers\Add2Numbers\bin\Debug\net5.0\Add2Numbers.runtimeconfig.json
+E:\Current Courses\C#\Samples\Add2Numbers\Add2Numbers\bin\Debug\net5.0\Add2Numbers.runtimeconfig.dev.json
+E:\Current Courses\C#\Samples\Add2Numbers\Add2Numbers\bin\Debug\net5.0\Add2Numbers.dll
+E:\Current Courses\C#\Samples\Add2Numbers\Add2Numbers\bin\Debug\net5.0\ref\Add2Numbers.dll
+E:\Current Courses\C#\Samples\Add2Numbers\Add2Numbers\bin\Debug\net5.0\Add2Numbers.pdb
+E:\Current Courses\C#\Samples\Add2Numbers\Add2Numbers\obj\Debug\net5.0\Add2Numbers.csprojAssemblyReference.cache
+E:\Current Courses\C#\Samples\Add2Numbers\Add2Numbers\obj\Debug\net5.0\Add2Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Current Courses\C#\Samples\Add2Numbers\Add2Numbers\obj\Debug\net5.0\Add2Numbers.AssemblyInfoInputs.cache
+E:\Current Courses\C#\Samples\Add2Numbers\Add2Numbers\obj\Debug\net5.0\Add2Numbers.AssemblyInfo.cs
+E:\Current Courses\C#\Samples\Add2Numbers\Add2Numbers\obj\Debug\net5.0\Add2Numbers.csproj.CoreCompileInputs.cache
+E:\Current Courses\C#\Samples\Add2Numbers\Add2Numbers\obj\Debug\net5.0\Add2Numbers.dll
+E:\Current Courses\C#\Samples\Add2Numbers\Add2Numbers\obj\Debug\net5.0\ref\Add2Numbers.dll
+E:\Current Courses\C#\Samples\Add2Numbers\Add2Numbers\obj\Debug\net5.0\Add2Numbers.pdb
+E:\Current Courses\C#\Samples\Add2Numbers\Add2Numbers\obj\Debug\net5.0\Add2Numbers.genruntimeconfig.cache
